@@ -11,4 +11,4 @@ A procedurally generated monster maze game where you scare ghost hunters as a gh
 * Sound was completely neglected in this project so I would add sound effects and maybe some spooky music.
 
 # Live project link
-Can play [here](https://hikami.itch.io/monster-maze-game "Here"), pass: 123
+Can play [here](https://hikami.itch.io/monster-maze-game "Here"), password: 123
